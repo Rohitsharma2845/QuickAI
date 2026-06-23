@@ -35,7 +35,8 @@ Notifications: React Hot Toast
 
 Getting Started
 1. Clone the Repository
-git clone https://github.com/Ayush-3010/QuickAI.git
+git clone https://github.com/Rohitsharma2845/QuickAI.git
+
 cd QuickAI
 
 2. Install Dependencies
@@ -47,6 +48,9 @@ npm run dev
 
 The app will be running at:
 👉 http://localhost:5173
+
+🚀 Live Demo
+https://quick-ai-one-beta.vercel.app/
 
 🔑 Environment Variables
 
